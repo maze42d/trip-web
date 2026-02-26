@@ -20,6 +20,3 @@ jobs:
         with:
           update-branch: true
 
-# Retype Config
-branding:
-  title: The TRIP Resurgence
