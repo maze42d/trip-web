@@ -1,0 +1,18 @@
+input: .
+output: .retype
+
+url: tripresurgence.org
+
+branding:
+  title: TRIP Resurgence
+  #label: Docs
+
+links:
+  - text: Routing Daemon
+    link: https://tripresurgence.org/tripd/tripd.md
+  - text: TRIP History
+    link: https://tripresurgence.org/trip/history.md
+
+footer:
+  copyright: "&copy; Copyright {{ year }} The TRIP Resurgence Project. All rights reserved."
+
