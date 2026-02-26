@@ -5,14 +5,25 @@ url: tripresurgence.org
 
 branding:
   title: TRIP Resurgence
+  logo: /static/logo.png
   #label: Docs
 
 links:
   - text: Routing Daemon
     link: https://tripresurgence.org/tripd/tripd.md
-  - text: TRIP History
+  - text: TRIP
     link: https://tripresurgence.org/trip/history.md
+  - text: Releases
+    link: https://tripresurgence.org/tripd/releases.md
+  - text: Git
+    link: https://github.com/TRIP-Resurgence/tripd
 
 footer:
   copyright: "&copy; Copyright {{ year }} The TRIP Resurgence Project. All rights reserved."
+  links:
+    - text: Licence
+      link: /LICENCE
+
+favicon: /static/logo.png
+
 

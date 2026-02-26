@@ -1,3 +1,22 @@
-# This is a test file
+# Bringing TRIP back
 
-This is a test file.
+The TRIP Resurgence project aims to rescue an old forgotten IETF protocol called
+TRIP (Telephone Routing over IP) that was imagined by the designers of SIP,
+the VoIP protocol.
+
+The project came around as a member of (UwUtel)[https://lunrox.co.uk] shared this protocol on the community,
+and other members that liked the idea of using TRIP for telephone routing in UwUtel,
+including the admin.
+
+Unfortunately this protocol never caught on in the world of Telcos, and there is
+only one publicly available archived implementation of it (others were known but are lost to time now).
+So we have to implement a TRIP Routing Daemon (or Location Server in TRIP terms) ourselves.
+This is the main project.
+
+## Sponsored by
+
+[![Lunrox Communications](/static/lunrox.svg)](https://lunrox.co.uk)
+
+[![ARFNET Internet Services](/static/arfnet.png)](https://arf20.com)
+
+
