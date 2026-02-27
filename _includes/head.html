@@ -1,0 +1,12 @@
+<style>
+    html.dark {
+        figure:has(.hide-in-darkmode) {
+            display: none;
+        }
+    }
+        html:not(.dark) {
+            figure:has(.hide-in-lightmode) {
+                display: none;
+            }
+        }
+</style>
