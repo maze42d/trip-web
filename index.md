@@ -4,7 +4,7 @@ The TRIP Resurgence project aims to rescue an old forgotten IETF protocol called
 TRIP (Telephone Routing over IP) that was imagined by the designers of SIP,
 the VoIP protocol.
 
-The project came around as a member of (UwUtel)[https://lunrox.co.uk] shared this protocol on the community,
+The project came around as a member of [UwUtel](https://lunrox.co.uk) shared this protocol on the community,
 and other members that liked the idea of using TRIP for telephone routing in UwUtel,
 including the admin.
 
